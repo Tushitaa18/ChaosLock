@@ -1,4 +1,4 @@
-
+// this part of code is to generate random numbers//
 function [x,self]=Random(self,x_n,Upper_bound,Lower_bound)
     r = 4.1; 
     for i = 1:self
